@@ -10,6 +10,6 @@ print('The selected candidates are:')
 for candidate in selectedList:
     print(candidate)
     print(candidate)
-    print(candidate)
+
 
 
